@@ -1,0 +1,10 @@
+{
+    "name": "tiesh",
+    "version": "0.0.1",
+    "description": "platform model for new business",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"haha\" && exit 1"
+    },
+    "author": "BachCN"   
+}
