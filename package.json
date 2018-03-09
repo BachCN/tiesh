@@ -6,5 +6,5 @@
     "scripts": {
         "test": "echo \"haha\" && exit 1"
     },
-    "author": "BachCN"   
+    "author": "BachCN"
 }
