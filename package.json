@@ -1,10 +1,27 @@
 {
-    "name": "tiesh",
-    "version": "0.0.1",
-    "description": "platform model for new business",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"haha\" && exit 1"
-    },
-    "author": "BachCN"
+  "name": "tiesh",
+  "version": "0.0.2",
+  "description": "platform model for new business",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"haha\" && exit 1"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "connect-redis": "^3.3.3",
+    "cookie-parser": "^1.4.3",
+    "entities": "^1.1.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "md5": "^2.2.1",
+    "mysql2": "^1.5.3",
+    "node-emoji": "^1.8.1",
+    "node-xlsx": "^0.12.0",
+    "sequelize": "^4.37.2",
+    "tenpay": "^2.0.11",
+    "wechat-api": "^1.35.1",
+    "wechat-oauth": "^1.2.1"
+  },
+  "author": "BachCN"
 }
